@@ -1,7 +1,8 @@
 # debug = true
 #
-# Grow the intersection of target Docker platforms as large as practically possible,
-# without generating too much churn.
+# Grow the intersection of target platforms
+# as large as practically possible,
+# while also reducing churn.
 #
 # Tweak this list as platforms emerge (or bitrot).
 #
