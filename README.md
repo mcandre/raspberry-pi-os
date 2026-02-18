@@ -63,9 +63,9 @@ Here, `linux/arm64` is the premier Docker platform for ARM projects. Though Rasp
 
 * `linux/386`
 * `linux/amd64`
-* `linux/amd64/v2`
-* `linux/arm/v7`
 * `linux/arm64`
+* `linux/armv5`
+* `linux/armv7`
 
 # RUNTIME REQUIREMENTS
 
