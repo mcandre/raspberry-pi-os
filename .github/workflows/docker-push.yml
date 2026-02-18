@@ -12,6 +12,10 @@ jobs:
     runs-on: "ubuntu-24.04"
     steps:
     - uses: "actions/checkout@v4"
+    - name: "Provision qemu"
+      uses: "docker/setup-qemu-action@v3"
+    - name: "Provision Buildx"
+      uses: "docker/setup-buildx-action@v3"
     - uses: "dtolnay/rust-toolchain@stable"
       with:
         toolchain: "1.92.0"
