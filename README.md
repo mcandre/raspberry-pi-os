@@ -2,6 +2,8 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/n4jm4/raspberry-pi-os)](https://hub.docker.com/r/n4jm4/raspberry-pi-os)
 
+For Raspberry Pi OS, AKA Raspbian AKA RPi.
+
 # SUMMARY
 
 [Raspberry Pi](https://www.raspberrypi.com/) supports embedded development.
@@ -61,11 +63,11 @@ Raspberry Pi OS identifies versions by Debian base distribution.
 
 Here, `linux/arm64` is the premier Docker platform for ARM projects. Though Raspberry Pi OS also supports other architecture as well, for developer convenience.
 
-* `linux/386`
-* `linux/amd64`
-* `linux/arm64`
-* `linux/armv5`
-* `linux/armv7`
+* linux/386
+* linux/amd64
+* linux/amd64/v2
+* linux/arm/v7
+* linux/arm64
 
 # RUNTIME REQUIREMENTS
 
