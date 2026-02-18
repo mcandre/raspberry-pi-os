@@ -1,0 +1,9 @@
+*.md
+*.mk
+.editorconfig
+.rubberstamp
+.tool-versions
+makefile
+tuggy.toml
+.github/
+.git/
