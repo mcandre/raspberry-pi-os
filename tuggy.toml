@@ -1,4 +1,4 @@
-debug = true
+# debug = true
 
 # https://archive.raspberrypi.org/debian/dists/
 # https://github.com/tonistiigi/binfmt
