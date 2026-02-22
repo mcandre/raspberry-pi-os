@@ -3,4 +3,4 @@
 .PHONY: all
 
 all:
-	cargo install --force tuggy@0.0.36
+	cargo install --force tuggy@0.0.37
