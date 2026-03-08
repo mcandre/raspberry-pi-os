@@ -82,6 +82,5 @@ Here, `linux/arm64` is the premier Docker platform for ARM projects. Though Rasp
 * [Raspberry Pi for Dummies](https://www.amazon.com/dp/1119796822), an approachable book for people who like to tinker
 * [raspberrypi-os-docker](https://github.com/dtcooper/raspberrypi-os-docker), an earlier Docker image
 * [mcandre/rockhopper](https://github.com/mcandre/rockhopper), a multiplatform package generator
-* [mcandre/tuggy](https://github.com/mcandre/tuggy), an automated Docker multiplatform image builder
 
 🍇

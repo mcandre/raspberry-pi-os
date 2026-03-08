@@ -8,14 +8,11 @@ For advanced operations, such as linting and generating install media artifacts,
 
 * [Docker](https://www.docker.com/) 28.0.1+
 * POSIX compliant [make](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/make.html)
-* [Rust](https://www.rust-lang.org/en-US/)
-* Provision additional dev tools with `make -f install.mk`
 
 ## Recommended
 
 * a UNIX-like environment (e.g. [WSL](https://learn.microsoft.com/en-us/windows/wsl/))
-* a host capable of running musl/Linux containers (e.g. a GNU/Linux, musl/Linux, macOS, or Windows host)
-* [Docker First Aid Kit](https://github.com/mcandre/docker-first-aid-kit)
+* Apple Silicon macOS users may want to apply `DOCKER_DEFAULT_PLATFORM=linux/amd64`, in order to account for images commonly lacking `linux/arm64` buildx platforms
 * [ASDF](https://asdf-vm.com/) 0.18 (run `asdf reshim` after provisioning)
 
 # BUILD DOCKER IMAGES

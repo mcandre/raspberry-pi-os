@@ -1,9 +1,8 @@
 *.md
-*.mk
 .editorconfig
 .rubberstamp
 .tool-versions
+docker-bake.hcl
 makefile
-tuggy.toml
 .github/
 .git/
