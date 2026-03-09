@@ -4,5 +4,5 @@
 .tool-versions
 docker-bake.hcl
 makefile
-.github/
 .git/
+.github/
