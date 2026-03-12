@@ -77,7 +77,9 @@ Here, `linux/arm64` is the premier Docker platform for ARM projects. Though Rasp
 
 * a UNIX-like environment (e.g. [WSL](https://learn.microsoft.com/en-us/windows/wsl/))
 
-# SEE ALSO
+# RESOURCES
+
+Prior art, personal plugs, and tools for developing portable applications.
 
 * [Raspberry Pi for Dummies](https://www.amazon.com/dp/1119796822), an approachable book for people who like to tinker
 * [raspberrypi-os-docker](https://github.com/dtcooper/raspberrypi-os-docker), an earlier Docker image
