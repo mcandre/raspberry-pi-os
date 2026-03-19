@@ -48,7 +48,7 @@ Hello World
 docker pull n4jm4/raspberry-pi-os
 ```
 
-For details on developing Raspberry Pi OS images, see our [development guide](DEVELOPMENT.md).
+For details on building from source, see our [development guide](DEVELOPMENT.md).
 
 ## Images
 
@@ -59,19 +59,9 @@ Raspberry Pi OS identifies versions by Debian base distribution.
 | trixie       | trixie, latest |
 | bookworm     | bookworm       |
 
-## Platforms
-
-Here, `linux/arm64` is the premier Docker platform for ARM projects. Though Raspberry Pi OS also supports other architecture as well, for developer convenience.
-
-* linux/386
-* linux/amd64
-* linux/amd64/v2
-* linux/arm/v7
-* linux/arm64
-
 # RUNTIME REQUIREMENTS
 
-* [Docker](https://www.docker.com/) 28.0.1+
+* [Docker](https://www.docker.com/)
 
 ## Recommended
 

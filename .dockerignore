@@ -1,8 +1,7 @@
 *.md
 .editorconfig
-.rubberstamp
-.tool-versions
-docker-bake.hcl
-makefile
 .git/
 .github/
+.rubberstamp
+docker-bake.hcl
+makefile

@@ -9,7 +9,7 @@
 	test-bookworm \
 	test-trixie
 
-all: test
+all: docker-build
 
 docker-build:
 	docker buildx bake all
