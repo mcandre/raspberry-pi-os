@@ -42,13 +42,13 @@ hello: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically
 Hello World
 ```
 
-# INSTALL
+# DOWNLOAD
 
 ```sh
 docker pull n4jm4/raspberry-pi-os
 ```
 
-For more details on developing Raspberry Pi OS images, see our [development guide](DEVELOPMENT.md).
+For details on developing Raspberry Pi OS images, see our [development guide](DEVELOPMENT.md).
 
 ## Images
 
