@@ -4,9 +4,7 @@ We follow standard, `docker` based operations for building and testing images.
 
 For advanced operations, such as linting, we further supplement with some software industry tools.
 
-# DEV ENVIRONMENT
-
-## Prerequisites
+# PREREQUISITES
 
 * [Docker](https://www.docker.com/)
 * [make](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/make.html)
