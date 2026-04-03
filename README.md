@@ -48,7 +48,7 @@ Hello World
 docker pull n4jm4/raspberry-pi-os
 ```
 
-For details on building from source, see our [development guide](DEVELOPMENT.md).
+For details on building from source, see [DEVELOPMENT](DEVELOPMENT.md).
 
 ## Images
 

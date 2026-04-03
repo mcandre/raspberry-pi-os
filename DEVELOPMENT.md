@@ -1,4 +1,4 @@
-# DEVELOPMENT GUIDE
+# DEVELOPMENT
 
 We follow standard, `docker` based operations for building and testing images.
 
