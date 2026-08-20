@@ -11,13 +11,13 @@ jobs:
   DockerPush:
     runs-on: "ubuntu-24.04"
     steps:
-    - uses: "actions/checkout@v4"
+    - uses: "actions/checkout@v7"
     - name: "Provision qemu"
-      uses: "docker/setup-qemu-action@v3"
+      uses: "docker/setup-qemu-action@v4"
     - name: "Provision Buildx"
-      uses: "docker/setup-buildx-action@v3"
+      uses: "docker/setup-buildx-action@v4"
     - name: "Authenticate Docker Hub"
-      uses: "docker/login-action@v3"
+      uses: "docker/login-action@v4"
       with:
         username: "${{ secrets.DOCKERHUB_USERNAME }}"
         password: "${{ secrets.DOCKERHUB_TOKEN }}"
