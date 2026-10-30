@@ -3,6 +3,7 @@ ARG BASE=library/debian:$DIST
 FROM $BASE
 ARG DIST
 ENV DIST=$DIST
+ENV DEBIAN_FRONTEND=noninteractive
 
 # Pending https://forums.raspberrypi.com/viewtopic.php?t=395895
 RUN mkdir -p /etc/crypto-policies/back-ends && \
