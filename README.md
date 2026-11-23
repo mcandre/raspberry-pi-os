@@ -1,6 +1,6 @@
 # raspberry-pi-os: Docker base image for Raspberry Pi OS
 
-[![Docker Pulls](https://badgen.net/docker/pulls/n4jm4/raspberry-pi-os?icon=docker)](https://hub.docker.com/r/n4jm4/raspberry-pi-os) [![CI/CD](https://badgen.net/github/checks/mcandre/raspberry-pi-os?icon=github)](https://github.com/mcandre/raspberry-pi-os/actions) [![License](https://badgen.net/static/license/BSD/ab2b29?icon=freebsd)](LICENSE.md)
+[![Docker Pulls](https://badgen.net/docker/pulls/n4jm4/raspberry-pi-os?icon=docker)](https://hub.docker.com/r/n4jm4/raspberry-pi-os) [![CI/CD](https://badgen.net/github/checks/mcandre/raspberry-pi-os?icon=github)](https://github.com/mcandre/raspberry-pi-os/actions) [![License](https://badgen.net/static/license/BSD/ab2b29?icon=freebsd)](LICENSE.md) [![AI](https://badgen.net/static/人/NO%20AI?color=aa4a44)](AI-DECLARATION.md)
 
 For Raspberry Pi OS, AKA Raspbian AKA RPi.
 
