@@ -1,0 +1,3 @@
+*.mk linguist-vendored
+makefile linguist-vendored
+docker-bake.hcl linguist-vendored
